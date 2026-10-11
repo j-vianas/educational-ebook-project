@@ -8,7 +8,7 @@ A practical project exploring the use of generative AI in educational content cr
 
 ## Ebook
 
-[📘 Read the ebook (PDF)](ebook/Da_informacao_a_competencia.pdf)
+[📘 Read the ebook (PDF)](https://github.com/j-vianas/educational-ebook-project/blob/1e9eff11eb2f8c2c2641f167b9f086d8e6328790/ebook/Ebook__Da%20informa%C3%A7%C3%A3o%20%C3%A0%20compet%C3%AAncia__2026-10.pdf)
 
 ## Process and Prompts
 
