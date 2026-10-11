@@ -8,7 +8,7 @@ Projeto prático de criação de conteúdo educacional com apoio de inteligênci
 
 ## Ebook
 
-[📘 Ler o ebook em PDF]([ebook/Da_informacao_a_competencia.pdf](https://github.com/j-vianas/educational-ebook-project/blob/61d7b7caf4ba963eb249dde885d130d07e9ef1b2/ebook/Ebook__Da%20informa%C3%A7%C3%A3o%20%C3%A0%20compet%C3%AAncia__2026-10.pdf))
+[📘 Ler o ebook em PDF](ebook/Ebook__Da informação à competência__2026-10.pdf)
 
 ## Processo e prompts
 
